@@ -12,3 +12,8 @@ La idea es realizar el curso **auditándolo**. Una vez recién terminado o apunt
 Para auditar un curso, se tiene que hacer click donde dice "Inscribirse gratis" y les aparecerá un pop up. Al pie del mismo aparece la opción para auditar.
 
 ![](images/guia-auditar.png)
+
+### Como usar git
+
+Dejo un link de una guía sencilla, rápida y para toda la familia:
+https://rogerdudler.github.io/git-guide/index.es.html
