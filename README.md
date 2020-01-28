@@ -10,7 +10,7 @@ Dado a que el curso tiene varios ejercicios, sería recomendable para mantener u
 
 ### Como empezar
 
-La idea es realizar el curso **auditándolo**. Una vez recién terminado o apunto de hacerlo, pedir el pago del curso.
+Vamos a empezar el curso **auditándolo** y una vez recién terminado, o apunto de hacerlo, pedir el pago del curso.
 Para auditar un curso, se tiene que hacer click donde dice "Inscribirse gratis" y les aparecerá un pop up. Al pie del mismo aparece la opción para auditar.
 
 ![](images/guia-auditar.png)
